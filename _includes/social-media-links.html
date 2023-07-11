@@ -1,0 +1,19 @@
+{% if site.data.social-media %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<div id="social-media">
+	<p style="text-align:center;">
+    {% assign sm = site.data.social-media %}
+    {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].id %}
+        	<span style="display:inline-block; width: 30px;"></span>
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}" style="color:{{ sm[key].color }}"></i></a>
+            
+        {% endif %}
+    {% endfor %}
+    </p>
+</div>
+
+{% endif %}

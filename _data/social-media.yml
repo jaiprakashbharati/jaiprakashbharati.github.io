@@ -1,0 +1,35 @@
+email:
+  id: "ishankumar216@gmail.com"
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square fa-2x'
+  color: '#855E42'
+
+linkedin:
+  id: ''
+  href: 'https://www.linkedin.com/in/ishan-k216/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square fa-2x'
+  color: '#0e76a8'
+    
+github:
+  id: 'Ishan-Kumar2'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square fa-2x'
+  color: '#333'
+    
+facebook:
+  id: 'ishan.kumar.790'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook fa-2x'
+  color: '#3b5998'
+    
+twitter:
+  id: 'ishankumar216'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square fa-2x'
+  color: '#00acee'
+    

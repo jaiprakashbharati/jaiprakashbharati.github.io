@@ -1,0 +1,21 @@
+news1:
+  date: "20th April 2020"
+  post:  'Started working as ML Research Intern at VAL IISc'
+  
+news2:
+  date: "4th June 2020"
+  post: 'Started working as ML Research Intern at CNeRG Group IIT Kharagpur'
+
+news3:
+  date: "16th November 2020"
+  post:  'Attended EMNLP 2020 as a Student Volunteer'
+
+news4:
+  date: "29th April 2021"
+  post:  'Attended the Molecular Machine Learning 1 Day Conference'
+
+
+news5:
+  date: "21 June 2020"
+  post:  'Born'
+  
