@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Ishan Kumar
+title: Jaiprakash Bharti
 
 # Your name to show in the footer
-author: Ishan Kumar
+author: Jaiprakash Bharti
 
 # --- List of links in the navigation bar --- #
 
@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/photo_ishan.png"
+avatar: "/assets/images/nanaji.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,14 +38,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ishankumar216@gmail.com"
-  facebook: ishan.kumar.790
-  github: Ishan-Kumar2
-  twitter: ishankumar216
-  
+  # email: "ishankumar216@gmail.com"
+  # facebook: ishan.kumar.790
+  # github: Ishan-Kumar2
+  # twitter: ishankumar216
 #  medium: yourname
 #  reddit: yourname
-  linkedin: ishan-k216
+  # linkedin: ishan-k216
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
