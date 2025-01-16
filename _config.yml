@@ -15,10 +15,8 @@ author: Jaiprakash Bharti
 
 navbar-links:
   About Me: "index"
-  Blogs : "blogs"
-  Projects : "projects"
-  CV : "https://drive.google.com/file/d/1_NQZkPWG_r3zRdgUtxm5FeHz-uEzoKjE/view?usp=sharing"
-
+  Books : "projects"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
