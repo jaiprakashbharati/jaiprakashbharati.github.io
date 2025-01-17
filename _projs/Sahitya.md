@@ -1,8 +1,8 @@
 ---
 layout: work
-title: "लो गुब्बारे"
-description : The Book Lo Gubaare
-caption: The Book Lo Gubaare
+title: "बाल पत्रकारिता"
+description : Baal Patrakarita
+caption: Baal Patrakarita
 tags: ["books", "baal sahitya"]
 
 thumbnail-img: 
@@ -16,7 +16,7 @@ dated: Jan 2021 - March 2021
 
 
 <center>
-<a class="btn-github" href="https://drive.google.com/file/d/1Fg4F9kAKMrK-KsfXlGSHkTEglLkyVhvn/view?usp=sharing" >
+<a class="btn-github" href="https://drive.google.com/file/d/1YZ2tSwniKDe0ugIsG4V6pDd2Ghb3j6sJ/view?usp=sharing" >
   Read
 </a>
 </center>
