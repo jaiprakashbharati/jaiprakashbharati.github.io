@@ -1,12 +1,12 @@
 ---
 layout: work
-title: "फत्ते कपड़ो में हीरे और अन्य छोटी कहानियाँ"
-description : Fatte Kapdo mein Heere and Other short stories
-caption: Fatte Kapdo mein Heere and Other short stories
+title: "हीरे मोती मणिया 2"
+description : Heere Moti Maniya 2
+caption: Heere Moti Maniya 2
 tags: ["books", "baal sahitya"]
 
-thumbnail-img: 
-share-img: 
+thumbnail-img:
+share-img:
 comments: true
 dated: Jan 2021 - March 2021
 ---

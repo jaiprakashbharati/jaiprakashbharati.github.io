@@ -1,0 +1,15 @@
+<!-- _includes/projs-buttons.html -->
+<section class="projs-navigation">
+  <h2>All Projects</h2>
+  <div class="projects-grid">
+    {% assign sorted_projs = site.projs | sort: "date" | reverse %}
+    {% for proj in sorted_projs %}
+      <a
+        href="{{ proj.url | relative_url }}"
+        class="project-button"
+      >
+        {{ proj.title }}
+      </a>
+    {% endfor %}
+  </div>
+</section>

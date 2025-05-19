@@ -11,3 +11,25 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
+  margin: 2rem 0;
+}
+
+.project-button {
+  display: block;
+  padding: 0.75rem 1rem;
+  background: #007acc;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0.25rem;
+  transition: background 0.2s ease;
+}
+.project-button:hover {
+  background: #005fa3;
+}
