@@ -3,10 +3,13 @@ layout: page
 ---
 
 {{ content }}
-  
+
+<article class="project-content">
+  {{ content }}
+</article>  
 
 
-<!-- BLOGS 
+<!-- BLOGS
 <h1> Blogs </h1>
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -48,7 +51,7 @@ layout: page
       {% endif %}
     </a>
 
-    
+
 
     {% if thumbnail != "" %}
     <div class="post-image post-image-small">
@@ -67,7 +70,7 @@ layout: page
     </div>
     {% endif %}
 
-    
+
     {% endunless %}
 
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
@@ -114,7 +117,7 @@ layout: page
             <tr>
                 <th><span class="text">Date</span></th>
                 <th><span class="text">Announcement</span></th>
-             
+
             </tr>
         </thead>
         <tbody>
@@ -122,16 +125,16 @@ layout: page
 	{% assign sm = site.data.news %}
   	{% for post in sm %}
   	{% assign key = post | first %}
-  		
-  				
+
+
 				  <tr>
     				<td><span class="text"> {{ sm[key].date }} </span></td>
     				<td><span class="text"> {{ sm[key].post }} </span></td>
-   					 
+
   					</tr>
-				  
-	    
-	   	</tbody> 
+
+
+	   	</tbody>
   	{% endfor %}
   	</table>
 </ul>
